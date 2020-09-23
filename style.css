@@ -24,6 +24,19 @@ img {
     color:#04BEF3;
 }
 
+.comework{
+    font-size:53px;
+    font-weight: 800;
+    margin:0;
+    margin-top:3px;
+}
+#few{
+    font-weight: 90;
+    font-size: 18px;
+}
+#loc{
+    margin:0;
+}
 .inside-header{
     color:white;
     position: absolute;
@@ -33,14 +46,100 @@ img {
 }
 
 #button {
-    text-align:center;
-    padding:5px;
+    text-align: center;
+    padding:7px;
     margin:auto;
-    border-radius: 10px;
+    border-radius: 7px;
     border: 2px solid  #04BEF3;
-    padding-left: 7px;
-    padding-right: 7px;
     display: inline-block;
     background-color: #04BEF3;
-    font-size:1.35em;
+    margin-top: 5px;
+    margin-left:35%;
+    margin-right:35%;
+    font-size:0.8em;
 }
+
+#buttontr{
+    position: relative;
+    left:880%;
+    top:30px;
+    margin-left: auto ;
+    border-radius: 7px;
+    border: 2px solid  #ffffff;
+    color: white;
+    padding:  5px 11px 5px 11px;
+    
+
+}
+
+#talented{
+    text-align: center;
+    font-size:35px;
+    margin:0;
+    margin-top:70px;
+    color:#24202E;
+}
+
+#join{
+    color:#24202E;
+    font-weight: lighter;
+    margin-top:50px;
+    margin-bottom: 60px;
+    margin-left: 19%;
+    margin-right: 19%;
+}
+#passion{
+    font-weight:lighter;
+    text-align: center;
+    color:#24202E;
+    font-size: 17px;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+#location{
+    font-weight:bold;
+    text-align: center;
+    color:#24202E;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+#left{
+    text-align: left;
+    float: left;
+    margin-left: 5%;
+    width:15%;
+}
+
+#center{
+    text-align: left;
+    float: left;
+    margin-left:22.5%;
+    margin-right:22.5%;
+    width:15%;
+}
+
+#right{
+    text-align: left;
+    float: left;
+    margin-right:5%;
+    width:15%;
+}
+
+.title{
+    font-size:12px;
+    font-weight: bold;
+    margin-top: 9px;
+    margin-bottom: 4px;
+
+}
+
+.light{
+    font-size:12px;
+    font-weight: lighter;
+    margin:3px;
+}
+
+
