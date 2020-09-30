@@ -61,9 +61,12 @@ img {
 }
 
 #buttontr{
-    position: relative;
+   /* position: relative;
     left:880%;
-    top:30px;
+    top:30px;*/
+    position: inherit;
+    top:0;
+   right:0;
     margin-left: auto ;
     border-radius: 7px;
     border: 2px solid  #ffffff;
